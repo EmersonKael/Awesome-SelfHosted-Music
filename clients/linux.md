@@ -1,8 +1,10 @@
 (English) Best Linux clients for Navidrome
 
-- **Navidrome Web UI (browser)** — FOSS. Recommended: use any modern browser for full functionality.
-- **Subsonic-compatible desktop players** — Various FOSS and paid players exist for Linux (e.g., native Linux builds or AppImages); check project pages for license details.
-- **Command-line & native music players** — While not Navidrome-specific, some players can stream from Subsonic-compatible servers using plugins or wrappers.
+| Client | License | Open Source | Price | Notes |
+|--------|---------|-------------|-------|-------|
+| **Feishin** | GPL-3.0 | ✅ Yes | 🆓 Free | Modern UI; supports Navidrome & Jellyfin desktop playback |  
+| **Supersonic** | GPL-3.0 | ✅ Yes | 🆓 Free | Lightweight cross-platform Subsonic/OpenSubsonic client |  
+
 
 Notes:
 

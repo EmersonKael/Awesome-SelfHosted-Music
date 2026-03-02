@@ -1,9 +1,12 @@
-(English) Best Android clients for Navidrome
+Best Android clients for Navidrome
 
-- **DSub** — Paid (Play Store). Popular Subsonic-compatible Android client with offline sync, gapless playback and scrobbling. (Please verify current pricing and license.)
-- **Ultrasonic** — FOSS. Open-source Subsonic/Navidrome-compatible client; community-maintained. (Verify repository and license.)
-- **Subsonic (official client)** — Paid. The official Subsonic client is often compatible with Navidrome; availability/pricing varies by store.
-- **Other Subsonic-compatible apps** — There are multiple smaller clients and forks; check Play Store/GitHub for current options and licensing.
+## 🔳 App Comparison Grid
+
+| App | License | Open Source | Price | Highlights |
+|-----|----------|-------------|--------|------------|
+| **Symfonium** | Proprietary | ❌ No | 💰 Paid (one-time purchase, trial available) | Advanced features, Android Auto, Chromecast, offline caching, highly polished UI |
+| **Chora** | Apache-2.0 | ✅ Yes | 🆓 Free | Modern Material 3 UI, Android Auto, offline support, actively developed |
+| **Substreamer** | Proprietary | ❌ No | 🆓 Free | Simple interface, streaming + offline, lightweight |
 
 Notes:
 
