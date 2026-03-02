@@ -1,4 +1,4 @@
-(English) Best Linux clients for Navidrome
+Best Linux clients for Navidrome
 
 | Client | License | Open Source | Price | Notes |
 |--------|---------|-------------|-------|-------|
