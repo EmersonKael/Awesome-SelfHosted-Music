@@ -13,21 +13,15 @@ Navidrome supports:
 
 By default, Navidrome searches in this order:
 
-
 .lrc → .txt → embedded
-
 
 This is controlled by the environment variable:
 
-
 ND_LYRICSPRIORITY
-
 
 Default value:
 
-
 .lrc,.txt,embedded
-
 
 ---
 
@@ -44,10 +38,8 @@ The lyric file must:
 
 Example:
 
-
 01 - My Song.mp3
 01 - My Song.lrc
-
 
 ⚠️ On Linux systems, filenames are case-sensitive.
 
@@ -57,16 +49,12 @@ Example:
 
 Example:
 
-
 [00:12.00] First line of lyrics
 [00:34.50] Second line of lyrics
 
-
 Format:
 
-
 [mm:ss.xx] Lyrics line
-
 
 Navidrome will automatically sync the lyrics during playback.
 
@@ -86,14 +74,17 @@ Lyrics are stored inside the audio file metadata:
 ## 🛠 Tools to Add Embedded Lyrics
 
 ### Mp3tag (Windows)
+
 - Open file  
 - Go to **Extended Tags**  
 - Add or edit the `LYRICS` field  
 
 ### Kid3 (Windows / Linux / macOS)
+
 - Edit the **Unsynchronised lyrics** field  
 
 ### CLI Tools (for advanced users)
+
 - `eyeD3`
 - `mid3v2`
 - `vorbiscomment`
@@ -106,16 +97,12 @@ Useful for bulk scripting.
 
 You can change the search order using:
 
-
 ND_LYRICSPRIORITY
-
 
 Example values:
 
-
 .lrc,.txt,embedded
 embedded,.lrc
-
 
 ---
 

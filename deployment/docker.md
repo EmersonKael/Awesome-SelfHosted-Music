@@ -9,10 +9,10 @@ A lightweight, self-hosted music server and streamer. This guide covers setting 
 If you prefer running a single command to get things moving, follow these steps.
 
 ### 1️⃣ Create the Directory Structure
+
 First, set up the folders where your data and music will live.
 
 mkdir -p ~/navidrome/data ~/navidrome/music ~/navidrome/plugins
-
 
 data: Database and internal configurations.
 
@@ -69,14 +69,11 @@ services:
       - ./music:/music:ro  # Read-only for safety
       - ./plugins:/plugins
 
-
-
 2️⃣ Management Commands
 
 Launch: docker compose up -d
 Stop: docker compose down
 View Logs: docker compose logs -f
-
 
 📁 Recommended File StructureYour project directory should look like this:
 
@@ -85,8 +82,6 @@ navidrome/
 ├── data/          # Auto-generated database files
 ├── music/         # Drop your albums here
 └── plugins/       # External plugin binaries
-
-
 ⚙️ Useful Environment VariablesVariableDescriptionExample
 
 ND_SCANINTERVALHow often to scan for new music.1h, 30m
@@ -94,10 +89,8 @@ ND_LOGLEVELDetail level of logs.info, debug, error
 ND_BASEURLSet this if using a Reverse Proxy./music
 ND_ENABLETRANSCODINGEnable on-the-fly audio conversion.true
 
-
 🚀 Get Started!
 Once the container is running, open your browser and go to:
-👉 http://localhost:4533 (or your server's IP)
+👉 <http://localhost:4533> (or your server's IP)
 
 Note: On your first visit, you will be prompted to create an admin account.🎵
-

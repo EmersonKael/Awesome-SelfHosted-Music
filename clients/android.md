@@ -1,4 +1,4 @@
-Best Android clients for Navidrome
+# Best Android clients for Navidrome
 
 ## 🔳 App Comparison Grid
 
