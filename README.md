@@ -1,6 +1,6 @@
 # Awesome Selfhosted Music
 
-A curated and structured collection of clients, plugins, themes, integrations, and deployment guides for the Navidrome ecosystem.
+A curated and structured collection of clients, plugins, themes, integrations, and deployment guides for the Selfhosted Music ecosystem.
 
 This repository aims to centralize useful resources for self-hosted music enthusiasts using Navidrome.
 
