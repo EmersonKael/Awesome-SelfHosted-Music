@@ -1,4 +1,4 @@
-# Awesome Navidrome
+# Awesome Selfhosted Music
 
 A curated and structured collection of clients, plugins, themes, integrations, and deployment guides for the Navidrome ecosystem.
 
